@@ -7,6 +7,7 @@ Hier eine kleine Sammlung an Weakauren. Ich werde je nach Progressstand die wich
 Grundweakauren:
 
 Healer Cds: https://github.com/nydiec/Break/blob/master/Healer%20Cds
+
 Kickrota: https://github.com/nydiec/Break/blob/master/Kick%20Rota
 
 

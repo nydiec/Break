@@ -1,5 +1,5 @@
 # Break
-Alle Wa und Sonstigen Scheiss
+
 Hey Leute,
 
 Hier eine kleine Sammlung an Weakauren. Ich werde je nach Progressstand die wichtigen Weakauren auf Github Hochladen die mit Grom abgesprochen sind und wir benutzen, diese sind für jeden Pflicht in Raid können aber gerne in jeden Fall angepasst werden.
